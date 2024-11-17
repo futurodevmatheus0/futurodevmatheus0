@@ -1,16 +1,29 @@
-## Hi there 👋
+### 👨🏻‍💻 Olá sou o Matheus Colares, tenho 23 anos e sou do nordeste Ceará, atualmente estou cursando Sistema de Informação na Unicatólica. Gosto muito da área do desenvolvimento web, busco sempre estudar e aprender ainda mais essa mundo gigante da TI e vou sempre buscar mais aprendizado para atingir meus objetivos.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheus_colares0)
 
-<!--
-**futurodevmatheus0/futurodevmatheus0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 Linguagens e tecnologias
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br/>
+	  <img alin="left" alt="html" title="html" width="30px" style ="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  	<img alin="left" alt="css" title="css" width="30px" style ="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  	<img alin="left" alt="javascript" title="javascript" width="30px" style ="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+</div
+### 📊 Estatísticas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img
+        aling="left"
+        height="200"
+        style="padding=right: 10px;"
+        src="https://github-readme-stats.vercel.app/api?username=futurodevmatheus0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
+
+<img
+        aling="left"
+        alt="GitHub Stats"
+        height="200"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=futurodevmatheus0&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+/>
+
+</p>
