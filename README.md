@@ -1,5 +1,4 @@
 ### 👨🏻‍💻 Olá sou o Matheus Colares, tenho 23 anos e sou do nordeste Ceará, atualmente estou cursando Sistema de Informação na Unicatólica. Gosto muito da área do desenvolvimento web, busco sempre estudar e aprender ainda mais essa mundo gigante da TI e vou sempre buscar mais aprendizado para atingir meus objetivos.
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheus_colares0)
 
 ### 🤖 Linguagens e tecnologias
 
