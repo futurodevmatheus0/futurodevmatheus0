@@ -28,11 +28,4 @@
 </p>
 
 <p>
-	<img
-		aling="left"
-		alt="200"
-		style="padding-right: 10px;"
-		src=
-            <i class="devicon-linkedin-plain colored"></i>
-          
-</p>
+
