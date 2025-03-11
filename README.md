@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Matheus Colares 
-Olá me chamo Matheus Colares, tenho 24 anos e sou natural de Quixadá, Nordeste Ceará. Concui o ensino médio e atualmente estou cursando Sistema de Informação na Unicatólica. Curto muito a área do desenvolvimento web, busco sempre estudar, aprender e também ficar sempre atualizado sobre as novas tecnologias desse mundo gigante da TI.
+Olá me chamo Matheus Colares, tenho 24 anos e sou natural de Quixadá, Nordeste Ceará. Faço faculdade e estou cursando Sistemas de Informação (SI) na Unicatólica, gosto bastante e sou mais focado na área de desenvolvimento web, atualmente tenho um certo conhecimento na parte do front-end mas com foco de futuramente aprender o back-end e tonar um fullstack, estou sempre buscando ficar atualizado e por dentro das novas notícias e tecnologias desse mundo gigante e cheio de informações que é o da TI.
 
 ### 🤖 Linguagens e Tecnologias :
 
